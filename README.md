@@ -11,5 +11,4 @@ As the name suggests, it's useful for lazy people who, when they want to change 
 3. Type ./LazyPaper.
 4. Drag and drop the wallpaper you want to set into the terminal window.
 
-Example:
-[ssdj3nt@archlinux ~]$ ./LazyPaper /home/ssdj3nt/Immagini/wallpaper.png
+Example: ./LazyPaper /home/ssdj3nt/Images/wallpaper.png
