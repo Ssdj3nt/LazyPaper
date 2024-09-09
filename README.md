@@ -8,5 +8,8 @@ As the name suggests, it's useful for lazy people who, when they want to change 
 
 1. Download the binary file, such as LazyPaper.
 2. Open a terminal in the directory where the binary file is located.
-3. Type ./LazyPaper and press Enter.
+3. Type ./LazyPaper.
 4. Drag and drop the wallpaper you want to set into the terminal window.
+
+Example:
+[ssdj3nt@archlinux ~]$ ./LazyPaper /home/ssdj3nt/Immagini/wallpaper.png
