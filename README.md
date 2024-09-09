@@ -6,7 +6,7 @@ As the name suggests, it's useful for lazy people who, when they want to change 
 
 # Normal Usage
 
-1. Download the binary file, such as 'LazyPaper-v0.10'.
+1. Download the binary file, such as LazyPaper.
 2. Open a terminal in the directory where the binary file is located.
-3. Type './LazyPaper-v0.10' and press Enter.
+3. Type ./LazyPaper and press Enter.
 4. Drag and drop the wallpaper you want to set into the terminal window.
