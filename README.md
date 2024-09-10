@@ -1,6 +1,7 @@
 # LazyPaper
 
 LazyPaper is a straightforward application written in C designed to simplify wallpaper management on Hyprland using Hyprpaper. 
+
 With LazyPaper, you can change your desktop wallpaper without manually editing the hyprpaper.conf file located at /home/username/.config/hypr/hyprpaper.conf.
 
 # Normal Usage
