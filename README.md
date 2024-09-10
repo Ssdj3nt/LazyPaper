@@ -1,14 +1,15 @@
 # LazyPaper
 
-LazyPaper is a "dumb" application written in C.
-
-As the name suggests, it's useful for lazy people who, when they want to change their desktop wallpaper on Hyprland with Hyprpaper, find it cumbersome to manually create or modify the file in /home/username/.config/hypr/hyprpaper.conf.
+LazyPaper is a straightforward application written in C designed to simplify wallpaper management on Hyprland using Hyprpaper. 
+With LazyPaper, you can change your desktop wallpaper without manually editing the hyprpaper.conf file located at /home/username/.config/hypr/hyprpaper.conf.
 
 # Normal Usage
 
-1. Download the binary file, such as LazyPaper.
+1. Download the LazyPaper binary file.
 2. Open a terminal in the directory where the binary file is located.
-3. Type "./LazyPaper". 
-4. Drag and drop the wallpaper you want to set into the terminal window.
+3. Run the command ./LazyPaper.
+4. Drag and drop the image you want to set as wallpaper into the terminal window.
 
-- Example: ./LazyPaper /home/ssdj3nt/Images/wallpaper.png
+Example: ./LazyPaper /home/ssdj3nt/Images/wallpaper.png
+
+LazyPaper streamlines the process of changing wallpapers, making it faster and more convenient.
