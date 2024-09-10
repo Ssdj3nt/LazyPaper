@@ -15,4 +15,4 @@ Example: ./LazyPaper /home/ssdj3nt/Images/wallpaper.png
 
 LazyPaper streamlines the process of changing wallpapers, making it faster and more convenient.
 
-![Uploading 2024-09-10-19-11-27-_online-video-cutter.com_.gif…]()
+![example](https://github.com/user-attachments/assets/11c156b3-5ba7-4de0-9ddf-e565dea34756)
