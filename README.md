@@ -15,5 +15,6 @@ Example: ./LazyPaper /home/ssdj3nt/Images/wallpaper.png
 
 LazyPaper streamlines the process of changing wallpapers, making it faster and more convenient.
 
-https://github.com/user-attachments/assets/e972f75a-a88d-4fa1-bcf4-4b88fd3a428d
+https://github.com/user-attachments/assets/f925e35a-74d1-49c6-919d-e9688beef8df
+
 
